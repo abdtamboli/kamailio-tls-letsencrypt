@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 LABEL maintainer="Giovanni Tommasini <tommasini.giovanni@gmail.com>"
 
 ENV REFRESHED_AT 2022-03-15.01
-ENV TZ="Europe/Rome"
+ENV TZ="Europe/Berlin"
 ENV DEBIAN_FRONTEND="noninteractive"
 ENV KAMAILIO_VERSION="5.5.4"
 
